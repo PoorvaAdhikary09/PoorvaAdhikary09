@@ -70,11 +70,14 @@ A full-stack platform to boost learning and focus through intelligent video summ
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoorvaAdhikary09&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoorvaAdhikary09&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PoorvaAdhikary09&show_icons=true&theme=vision-friendly-dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoorvaAdhikary09&theme=vision-friendly-dark" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoorvaAdhikary09&layout=compact&theme=vision-friendly-dark" width="48%" />
 </p>
 
 ---
