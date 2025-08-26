@@ -12,10 +12,11 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, C++, JavaScript, Python (Basics)
-- **Frontend:** HTML, CSS, JavaScript, React.js, React Native (Learning)
+- **Languages:** C++, JavaScript, Python (Basics)
+- **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** FastAPI, Node.js (Basics)
-- **Databases:** MongoDB
+- **Databases:** SQL, Excel
+- **Visualization Tools:** Power BI, Tableau
 - **UI/UX Tools:** Figma, Framer, Canva
 - **Others:** Git, GitHub, Postman, Netlify, Vercel
 
@@ -66,7 +67,6 @@ A full-stack platform to boost learning and focus through intelligent video summ
 - 🥇 Finalist - Imagine Hackathon 2025  
 - 🥈 Internal Winner - Smart India Hackathon 2024  
 - ✅ Completed Intern Tasks at Pinnacle Labs (Weather + To-do App)
-- 👩🏼‍💻 Intern at Prodigy Info Tech 
 
 ---
 
